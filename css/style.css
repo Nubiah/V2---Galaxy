@@ -1,0 +1,135 @@
+							/**********************************************************
+												CSS DESKTOP + TAB
+							**********************************************************/
+
+/*********************************************GLOBAL*********************************************/
+
+p, li {
+	font-family: 'walkway_semiboldregular';
+	color: white;
+}
+
+h1, h2, h3 {
+	font-family: 'walkway_ultraboldregular';
+	color: white;
+}
+
+li {
+	display: inline-block;
+}
+
+body {
+	background: url(../img/back.png);
+	background-size: 100vw;
+	margin: 0px;
+}
+
+div, p {
+	margin: 0px;
+}
+
+/*********************************************TOP MENU*********************************************/
+
+.top_menu {
+	width: 100%;
+	text-align: center;
+}
+
+.top_menu ul {
+	padding: 0px;
+}
+
+.top_menu li {
+	padding: 0px 10px 0px 10px;
+}
+
+.top_menu a {
+	text-decoration: none;
+	color: white;
+}
+
+/*********************************************INTRO*********************************************/
+
+.intro {
+	text-align: center;
+	height: 100vh;
+}
+
+.intro img {
+	width: 200px;
+	margin: 20vh 0px 0px 0px;
+}
+
+.intro h1 {
+	font-size: 70px;
+	margin: 40px 0px 0px 0px;
+}
+
+
+/*********************************************Skill*********************************************/
+
+.skill {
+	width: 100%;
+}
+
+.partie1 {
+	width: 60vw;
+	height: 50vh;
+	margin-left: 20vw;
+
+}
+
+.management {
+	text-align: center;
+}
+
+.partie2 {
+	margin-top: 30px;
+	width: 94vw;
+	height: 50vh;
+	margin-left: 3vw;
+	text-align: center;
+}
+
+.competence {
+	width: 25vw;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+/*********************************************Portfolio*********************************************/
+
+.portfolio {
+	width: 90vw;
+	margin-left: 5vw;
+	text-align: center;
+	height: 50vh;
+}
+
+.imagePortfolio {
+	text-align: center;
+}
+
+.imagePortfolio img {
+
+}
+
+/*********************************************Loisir*********************************************/
+
+/*********************************************Contact*********************************************/
+
+.contact {
+	text-align: center;
+	height: 30vh;
+}
+
+.contact a {
+	text-decoration: none;
+	color: white;
+	font-family: 'walkway_ultraboldregular';
+}
+
+
